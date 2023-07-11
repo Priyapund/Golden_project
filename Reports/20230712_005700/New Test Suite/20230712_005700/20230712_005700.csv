@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-12 00:57:11,2023-07-12 00:58:32,1m - 21.317s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Windows - Chrome 110.0.0.0,,,2023-07-12 00:57:12,2023-07-12 00:58:32,1m - 20.767s,PASSED
+"openBrowser(""https://www.google.com"")",Windows - Chrome 110.0.0.0,,,2023-07-12 00:57:12,2023-07-12 00:58:28,1m - 15.513s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-12 00:58:28,2023-07-12 00:58:32,4.504s,PASSED
