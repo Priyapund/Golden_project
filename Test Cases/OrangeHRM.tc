@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test case_2</name>
+   <name>OrangeHRM</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ee123ba4-3992-47c0-b21c-9d2d7459f9ad</testCaseGuid>
+   <testCaseGuid>68cd8a41-6f2c-46d1-a8b4-ca62d9b9b7c9</testCaseGuid>
 </TestCaseEntity>

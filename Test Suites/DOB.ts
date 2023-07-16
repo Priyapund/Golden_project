@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test Suite_2</name>
+   <name>DOB</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>08676bdd-70f0-4b8d-b48d-0cad2a8136fd</testSuiteGuid>
+   <testSuiteGuid>45a8dc3b-74e8-40c6-bd5f-4d365d03e4c6</testSuiteGuid>
 </TestSuiteEntity>
