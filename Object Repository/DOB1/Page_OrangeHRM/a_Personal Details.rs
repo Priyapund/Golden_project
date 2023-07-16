@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Personal Details</name>
    <tag></tag>
-   <elementGuidId>ffec06ad-7df7-450c-a23a-3b495bed33db</elementGuidId>
+   <elementGuidId>ae22a649-5c73-463c-b631-146880e95426</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cbc43731-6459-4a1a-8ca7-2255f6e7990e</webElementGuid>
+      <webElementGuid>e8f15c54-b631-4858-ade5-b597c2d5a970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>orangehrm-tabs-item --active</value>
-      <webElementGuid>ba954aac-afd2-478c-881c-22dda817b3af</webElementGuid>
+      <webElementGuid>b64a6a23-017d-4169-9fa4-e4da1a4ace98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/pim/viewPersonalDetails/empNumber/7</value>
-      <webElementGuid>40aff0d3-75dd-4329-bd21-cae131b2d836</webElementGuid>
+      <webElementGuid>b8c79808-bb26-4dc8-af13-87535017230e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Personal Details</value>
-      <webElementGuid>79d3ed6c-ac77-41c8-b44a-9e3c5d1247fb</webElementGuid>
+      <webElementGuid>d5bb6d66-bae9-4c58-afe8-8e184f6f4c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-navigation&quot;]/div[@class=&quot;orangehrm-tabs&quot;]/div[@class=&quot;orangehrm-tabs-wrapper&quot;]/a[@class=&quot;orangehrm-tabs-item --active&quot;]</value>
-      <webElementGuid>6bf30d1d-dd24-4bda-ac48-252389ea7c43</webElementGuid>
+      <webElementGuid>8b2b0183-9979-4935-819c-eb92d7c7d3eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/div/a</value>
-      <webElementGuid>2fc5fbc3-3dd2-429c-96e0-6f5737f22bae</webElementGuid>
+      <webElementGuid>b95c271b-56d3-478e-b2da-4c706d724349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Personal Details')]</value>
-      <webElementGuid>01527946-1060-4c19-8f03-20e4b3678fda</webElementGuid>
+      <webElementGuid>4c6ce3fa-28a0-4a48-90e2-8d56d7f346e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Details'])[1]/preceding::a[1]</value>
-      <webElementGuid>b6083f2d-5ddf-4b86-b6d6-a1d5921ff9ea</webElementGuid>
+      <webElementGuid>138017ed-792a-4c7d-a620-d6f0bc72e5a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Contacts'])[1]/preceding::a[2]</value>
-      <webElementGuid>e140908d-780c-431c-a9d8-8ff4b2d224b6</webElementGuid>
+      <webElementGuid>90983d45-7c7e-454c-99c9-cc7c738cdf07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Personal Details']/parent::*</value>
-      <webElementGuid>21480998-e670-47be-b1c3-dfeec1dcd53b</webElementGuid>
+      <webElementGuid>1216cf21-2d09-4735-9a4b-911a72306e12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/pim/viewPersonalDetails/empNumber/7')]</value>
-      <webElementGuid>bbcf75f7-00f1-4586-bb10-abd7a02e3d66</webElementGuid>
+      <webElementGuid>51a1160e-cd82-4cc2-b1e6-78c16a5c08c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>fc438925-0ed7-4226-a1c7-f6b2e2445566</webElementGuid>
+      <webElementGuid>e6afeeb9-48ee-4d15-96f9-42339b56c94a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/pim/viewPersonalDetails/empNumber/7' and (text() = 'Personal Details' or . = 'Personal Details')]</value>
-      <webElementGuid>8d8f6497-bc4c-4a58-99c2-8627d43b0aa1</webElementGuid>
+      <webElementGuid>1e3e4a98-768e-4635-9755-0fc599d3dc4f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

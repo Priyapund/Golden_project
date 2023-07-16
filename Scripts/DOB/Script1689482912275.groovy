@@ -21,21 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.setText(findTestObject('Object Repository/DOB1/Page_OrangeHRM/input_Username_username'), 'Admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/DOB1/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/a_My Info'))
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/span_My Info'))
 
-WebUI.click(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/a_Personal Details'))
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/a_Personal Details'))
 
-WebUI.click(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/i_Date of Birth_oxd-icon bi-calendar oxd-da_a2e97b'))
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/i_Date of Birth_oxd-icon bi-calendar oxd-da_a2e97b'))
 
-WebUI.click(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/div_9'))
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/div_10'))
 
-WebUI.click(findTestObject('Object Repository/Birthdate/Page_OrangeHRM/button_Save'))
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/form_Employee Full NameNicknameEmployee IdO_b063d5'))
+
+WebUI.click(findTestObject('Object Repository/DOB1/Page_OrangeHRM/button_Save'))
 
 WebUI.closeBrowser()
 
